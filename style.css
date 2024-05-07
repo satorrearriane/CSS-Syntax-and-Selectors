@@ -1,0 +1,24 @@
+header {
+  background-color: #FFB6C1; /* Light Pink */
+}
+
+header h1 {
+  color: #E6E6FA; /* My Favorite Color */
+}
+
+nav {
+  border-bottom: 2px solid black;
+}
+
+nav ul li a {
+  font-size: 18px;
+}
+
+footer {
+  text-align: center;
+}
+
+.box {
+  background-color: lightgrey; /* Light Grey or Your Custom Color */
+  padding: 20px;
+}
